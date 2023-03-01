@@ -10,7 +10,7 @@ Asistent: Jovana Jovanovic </br>
 
 Gradivo:
 <ul> 
-<li> Cas 1.  </li>
+<li> Cas 1. C# - Poređenje sa Java programskim jezikom, klase, strukture  </li>
 <li> Cas 2.  </li>
 <li> Cas 3.  </li>
 <li> Cas 4.  </li>
